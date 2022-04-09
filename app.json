@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/pranavkarool/taurus-bot",
     "website":   "https://github.com/pranavkarool/taurus-bot",
-    "success_url": "https://github.com/muhammed-usrbot/taurus-bot",
+    "success_url": "https://github.com/pranavkarool/taurus-bot",
     "stack": "container",
     "env": {
         "TAURUS_CODE": {
